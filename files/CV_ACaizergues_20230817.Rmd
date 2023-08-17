@@ -1,0 +1,178 @@
+---
+title: "CV"
+author: "Aude E. Caizergues"
+email: aude.caizergues@utoronto.ca
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: ~/Dropbox/AudeCaizergues.github.io/files/svm-latex-cv.tex
+  html_document:
+    df_print: paged
+  word_document: default
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+geometry: margin=1in
+github: AudeCaizergues
+jobtitle: Post-doctoral Fellow, University of Toronto Mississauga
+# keywords: R Markdown, academic CV, template
+linkcolor: blue
+fontawesome: yes
+address: Department of Ecology & Evolutionary Biology
+# updated: no
+urlcolor: blue
+web: AudeCaizergues.github.io
+---
+<!-- I am using Steven V. Miller's CV template, available here: https://github.com/svmiller/svm-r-markdown-templates
+Thank you Steve! -->
+```{r}
+
+```
+
+# Education
+**Post-doc**, University of Toronto, ON, Canada \hfill 2021-present  
+Urban evolutionary biology and genomics  
+Advisors: Drs. Marc T.J. Johnson and Rob W. Ness
+
+**Post-doc**, Center for Functional Ecology and Evolution Montpellier, France 	 \hfill 2021  
+Urban ecology and parasitology  
+Advisors: Drs. Anne Charmantier & Sylvain Gandon
+
+**Ph.D**, University of Montpellier, France    	 \hfill 2017-2021  
+Urban evolutionary biology and genomics   
+Advisors: Drs. Arnaud Grégoire & Anne Charmantier 
+
+**M.Sc.**, University of Montpellier, France   	 \hfill 2017  
+Evolutionary biology & ecology
+
+**B.Sc.**, University of Montpellier, France   	 \hfill 2015  
+Ecology & biology of organisms
+
+\vspace{4pt}
+
+
+
+# Research & Professional Experience
+**Graduate research project**, Institute of Evolutionary Science  \hfill 2017  
+of Montpellier, France  
+Advisor: Dr. Benoit Nabholz  
+Thesis title: Impacts of Ne reduction on populations genomics of Darwin’s finches and flycatchers
+  
+**Graduate research project**, Center for Functional Ecology and Evolution,  \hfill  2016   
+Montpellier, France 	
+Advisor: Dr. Arnaud Grégoire  
+Thesis title: Impacts of urbanisation on great tits (*Parus major*) morphological traits 
+
+**Undergraduate research project**, Center for Biology management of Populations,  \hfill 2015  
+Montpellier, France  
+Summer project in experimental biology on plant-insect interactions and host shifts  
+PI: Rejane Streiff
+
+**Undergraduate research staff assistant**,Center for Functional Ecology  \hfill 2014  
+and Evolution, Montpellier, France
+Fieldwork and lab assistant  
+PI: Dr. Claire Doutrelant
+
+\vspace{4pt}
+
+
+
+# Scholarships and Awards
+School of Cities - Postdoc matching grant \hfill 2023
+Centre for Urban Environement - Workshop/Symposium Grant \hfill 2023 
+Doctorate school Gaïa - merit-based PhD scholarship \hfill 2017  
+
+
+
+
+# Publications
+## Book Chapters
+1\.&nbsp;&nbsp;
+Perrier C.,  **Caizergues, A.E.** and Charmantier, A., *Adaptation Genomics in Urban Environments.* In: *Urban Evolutionary Biology.* Edited by Marta Szulkin, Jason Munshi-South and Anne Charmantier: Oxford University Press (2020). © Oxford University Press. DOI: [10.1093/oso/9780198836841.003.0005
+](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198836841.001.0001/oso-9780198836841-chapter-5)
+
+
+## Journal Articles
+### First author publications
+4\.&nbsp;&nbsp;
+**Caizergues, A.E.**, A. Grégoire, R. Choquet, S. Perret and A. Charmantier. 2022. Are behaviour and stress‐related phenotypes in urban birds adaptive? Journal of Animal Ecology. 15(1):149-165. DOI: [10.1111/1365-2656.13740](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2656.13740)
+
+3\.&nbsp;&nbsp;
+**Caizergues, A.E.**, J. Le Luyer, A. Grégoire, M. Szulkin, J.-C. Senar, A. Charmantier, and C. Perrier. 2022. Epigenetics and the city: Non‐parallel DNA methylation modifications across pairs of urban‐forest Great tit populations. Evolutionary Applications. 15(1):149-165. DOI: [10.1111/eva.13334](https://onlinelibrary.wiley.com/doi/full/10.1111/eva.13334)
+
+2\.&nbsp;&nbsp;
+**Caizergues, A.E.**, A. Charmantier, M.M. Lambrechts, S. Perret, V. Demeyrier, A. Lucas and A. Grégoire. 2020. An avian urban morphotype: how the city environment shapes great tit morphology at different life stages. Urban Ecosystems. 24(5):929-941. DOI: [10.1007/s11252-020-01077-0](https://link.springer.com/article/10.1007/s11252-020-01077-0)
+
+1\.&nbsp;&nbsp;
+**Caizergues, A.E.**, A. Grégoire and A. Charmantier. 2018. sland songbirds as windows into evolution in small populations. Current Biology. 31(6):1303:1310. DOI: [10.1098/rspb.2018.0261](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2018.0261)
+
+### Other publications
+2\.&nbsp;&nbsp;
+Leroy, T., M. Rousselle, M.-K. Tilak, **A.E. Caizergues**, C. Scornavacca, M. Recuerda, J. Fuchs, J.C. Illera, D.H. De Swardt, G. Blanco, C. Thébaud, B. Mila and B. Nabholz. 2021. An avian urban morphotype: how the city environment shapes great tit morphology at different life stages. Urban Ecosystems. 24(5):929-941.e4. DOI: [10.1016/j.cub.2020.12.040](https://www.sciencedirect.com/science/article/pii/S0960982220318923)
+
+1\.&nbsp;&nbsp;
+Lambrechts, M.M., **A.E. Caizergues**, C. Perrier, A. Charmantier and S. Caro. 2020. Surface temperatures of non-incubated eggs in great tits (*Parus major*) are strongly associated with ambient temperature. International Journal of Biometeorology. 64:1767:1775. DOI: [10.1007/s00484-020-01958-11](https://link.springer.com/article/10.1007/s00484-020-01958-11)
+
+# Presentations
+## International conferences
+6\.&nbsp;&nbsp;
+**Caizergues, A.E.**, et al. 2023. Does urbanization lead to parallel demographic shifts across the world in a cosmopolitan plant? Presentation. Evolution Congress, Albuquerque, NM, USA. 16/06/2023.  
+
+5\.&nbsp;&nbsp;
+**Caizergues, A.E.**, et al. 2022. Effects of urbanization on demographic processes in *Trifolium repens*. Presentation. ESEB Congress, Prague, Czech Republic. 16/08/2022.  
+
+4\.&nbsp;&nbsp;
+**Caizergues, A.E.**, A. Grégoire, R. Choquet, S. Perret and A. Charmantier. 2022. Are behavioural and stress related phenotypes adaptive in urban great tits? New insight from selection analyses. Invited speaker (virtual). European Ornithologists' Union Congress 2022, Giessen, Germany. 14/03/2022.
+
+3\.&nbsp;&nbsp;
+**Caizergues, A.E.**, A. Grégoire and A. Charmantier. 2019. Adaptive potential in urban habitat : a study case in the Great tit (*Parus major*). Presentation. OSU-OREME Seminar, Montpellier, France. 11/10/2019.  
+
+2\.&nbsp;&nbsp;
+**Caizergues, A.E.**, A. Grégoire and A. Charmantier. 2018. Adaptive potential in urban habitat, morphology and life history traits. Presentation. National Parid meeting, Strasbourg, France. 08/02/2018.  
+
+1\.&nbsp;&nbsp;
+**Caizergues, A.E.**, A. Grégoire and A. Charmantier. 2018. Urban ecotypes are not explained by divergent reproductive selection. Poster Presentation. II Joint Congress on Evolutionary biology, Montpellier, France. 20/08/2018.
+\vspace{4pt}
+
+## Invited seminars
+1\.&nbsp;&nbsp;
+**Caizergues, A.E.** et al. 2022. Evolutionary consequences of urbanization on the Great tit (*Parus major*): From phenotypes to (epi)genomes. Invited seminar speaker (virtual). RCN Urban eco-evo Seminar Series. 17/05/2022.  
+\vspace{4pt}
+
+# Teaching & Supervisory Experience
+## Teaching
+*University of Montpellier, France*  
+**Teaching Assistant**, Ecology and biodiversity \hfill 2019-2020  
+**Teaching Assistant**, Bases in evolutionary ecology \hfill 2019-2020  
+**Teaching Assistant**, Integrative biology \hfill 2017-2020  
+**Teaching Assistant**, Life cycles of organisms \hfill 2017-2018 
+
+
+## Supervisory Experience
+**Amanda Alencar**, international PhD student.  \hfill 2023  
+Mutation load estimation in clover genomes. 
+**Isabella Vessio**, work study student.  \hfill 2022  
+HCN and herbivory assessment in white clover leaves.  
+**Fiona Cornet**, undergrad student.  \hfill 2019  
+Impact of urbanization on great tits' black tie size.  
+**Arnaud Borne**, undergrad student.  \hfill 2018  
+Estimation of anthropogenic perturbations around nest-boxes.
+\vspace{4pt}
+
+
+# Outreach
+**Festival of Science**, Montpellier, France  \hfill Oct-2020  
+I ran a scientific booth to communicate about biodiversity in urban habitats
+
+**Festival of Nature**, Montpellier's zoo, France  \hfill May-2020  
+Communication with families and children to raise public awareness on biodiversity  
+
+**« 3 Minute Thesis » competition** Montpellier, France  \hfill 2019  
+Regional finalist of the French "3 Minute Thesis" competition  
+
+**Make my PhD a comics!** Montpellier, France  \hfill June-2019  
+Workshop, drawing and pitching my PhD thesis in a comics format for a broad audience  
+
+**Radio broadcast ** Montpellier, France  \hfill April-2019  
+Animation of a radio broadcast about urban biodiversity on a national radio station
+
