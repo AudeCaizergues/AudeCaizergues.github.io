@@ -1,19 +1,17 @@
 
 ---
-layout: archive
-title: "Publications"
 permalink: /publications/
-author_profile: true
+title: "Publications"
+
 ---
+<p style="text-align: center;"># Preprints</p>
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Caizergues, A.E., Santangelo, J.S., Ness, R.W., Angeoletto, F., Anstett, D.N., Anstett, J., Baena-Diaz, F., Carlen, E.J., Chaves, J.A., Comerford, M.S. and Dyson, K., 2023. Does urbanization lead to parallel demographic shifts across the world in a cosmopolitan plant?. bioRxiv, pp.2023-08. doi.org/10.1101/2023.08.14.552623
 
-{% include base_path %}
+Caizergues, A.E., Robira, B., Perrier, C., Jeanneau, M., Berthomieu, A., Perret, S., Gandon, S. and Charmantier, A., 2023. Cities as parasitic amplifiers? Malaria prevalence and diversity along an urbanization gradient in great tits. bioRxiv, pp.2023-05. doi.org/10.1101/2023.05.03.539263
 
-{% for post in site.publications reversed %}
-  {% include archive-single-publications.html %}
-{% endfor %}
+# 2022 
 
-<sup>*</sup> Equal authorship
+
+#
+
