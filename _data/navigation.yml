@@ -10,7 +10,10 @@ main:
     url: /publications/
 
   - title: "Outreach"
-    url: /teaching/      
+    url: /teaching/
+   
+  - title: "Gallery"
+    url: /gallery/
 
     
 
